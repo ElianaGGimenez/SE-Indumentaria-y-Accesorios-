@@ -1,4 +1,4 @@
-const CARRO_KEY = 'carrito';
+const CARRO_KEY = 'carro';
 
 function agregarAlCarrito(boton) {
     const productoId = boton.getAttribute('data-id');
